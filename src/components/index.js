@@ -7,12 +7,16 @@ import Experience from './Experience';
 import Works from './Works';
 import Feedbacks from './Feedbacks';
 import Contact from './Contact';
+import Quote from './Quote';
+
+import StarryBackground from './StarryBackground';
 
 export {
   Hero,
   Navbar,
   About,
   Tech,
+  Quote,
   Experience,
   Works,
   Feedbacks,
@@ -20,5 +24,6 @@ export {
   EarthCanvas, 
   BallCanvas, 
   ComputersCanvas, 
+  StarryBackground,
   StarsCanvas
 }
