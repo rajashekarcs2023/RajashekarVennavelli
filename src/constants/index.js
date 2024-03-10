@@ -8,7 +8,6 @@ import {
     java,
     python,
     aws,
-    ubuntu,
     jquery,
     html,
     css,
@@ -119,10 +118,6 @@ import {
     {
       name: "aws",
       icon: aws,
-    },
-    {
-      name: "Ubuntu",
-      icon: ubuntu,
     },
    {
       name: "JQuery",

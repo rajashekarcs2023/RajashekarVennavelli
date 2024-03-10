@@ -20,11 +20,18 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import aws from "./tech/aws.png";
+
+import java from "./tech/java.png";
+import python from "./tech/python.png";
+import jquery from "./tech/jquery.png";
+
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import Citi from "./company/Citi.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -40,6 +47,10 @@ export {
   menu,
   close,
   css,
+  java,
+  python,
+  aws,
+  jquery,
   docker,
   figma,
   git,
@@ -53,6 +64,7 @@ export {
   typescript,
   threejs,
   meta,
+  Citi,
   shopify,
   starbucks,
   tesla,
