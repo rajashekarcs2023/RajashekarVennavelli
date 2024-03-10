@@ -5,10 +5,14 @@ import {
     web,
     javascript,
     typescript,
+    java,
+    python,
+    aws,
+    ubuntu,
+    jquery,
     html,
     css,
     reactjs,
-    redux,
     tailwind,
     nodejs,
     mongodb,
@@ -16,7 +20,7 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
+    Citi,
     tesla,
     shopify,
     carrent,
@@ -60,8 +64,14 @@ import {
   ];
   
   const technologies = [
-    
-    
+    {
+      name: "Java",
+      icon: java,
+    },
+    {
+      name: "Python",
+      icon: python,
+    }, 
     {
       name: "HTML 5",
       icon: html,
@@ -83,10 +93,6 @@ import {
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
       name: "Tailwind CSS",
       icon: tailwind,
     },
@@ -97,11 +103,7 @@ import {
     {
       name: "MongoDB",
       icon: mongodb,
-    },
-    {
-      name: "Three JS",
-      icon: threejs,
-    },
+    }, 
     {
       name: "git",
       icon: git,
@@ -114,15 +116,27 @@ import {
       name: "docker",
       icon: docker,
     },
+    {
+      name: "aws",
+      icon: aws,
+    },
+    {
+      name: "Ubuntu",
+      icon: ubuntu,
+    },
+   {
+      name: "JQuery",
+      icon: jquery,
+   },
   ];
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
+      title: "Application Developer",
+      company_name: "Citi Bank",
+      icon: Citi,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "July 2018 - February 2019",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
