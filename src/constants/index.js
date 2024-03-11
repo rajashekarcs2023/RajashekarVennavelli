@@ -123,22 +123,48 @@ import {
   
   const experiences = [
     {
+      title: "Machine Learning Research Intern",
+      company_name: "International Institute of Information Technology, Hyderabad",
+      icon: shopify,
+      iconBg: "#383E56",
+      date: "Dec 2017 - May 2018",
+      points: [
+        "Automation of data analysis of the data collected during various surveys using Python and Natural Language Processing techniques.",
+        "Conducted a comprehensive literature survey on various conversational agent frameworks, including Dialogflow, Watson, and wit.ai, to gain insights into their functionalities and capabilities.",
+        "Implemented strategies to minimize the lexical gap in a Question-Answering application, utilizing natural language processing techniques to provide accurate responses to user queries.",
+        "Developed a web application chatbot tailored for a specific knowledge domain",
+      ],
+    },
+    {
       title: "Application Developer",
       company_name: "Citi Bank",
       icon: Citi,
       iconBg: "#383E56",
       date: "July 2018 - February 2019",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+        "Developed modules for reading, writing and processing data from the database. Developed and maintained Spring Batch applications to process data input files.",
+        "Implemented a suite of compliance metrics using SQL queries and Spring Batch to measure and track compliance across the organization.",
+        "Led the development of REST APIs using Spring framework to facilitate seamless communication betweeen systems for data retrieval and complaince checking",
+        "Involved in developing modules to convert the streaming data into readable format, reduced the latency of real time processing of 1 billion trade messages per day.",
+      ],
+    },
+    {
+      title: "Software Engineer",
+      company_name: "Global Energy Consulting Engineers",
+      icon: meta,
+      iconBg: "#E6DEDD",
+      date: "Nov 2020 - Jan 2022",
+      points: [
+        "Enhanced enterprise-level web applications using Java, Spring, and React.JS frameworks, leading to a increase in application performance.",
+        "Implemented RESTful APIs that drove a 20% surge in user engagement, leveraging Agile methodology to ensure timely delivery",
         "Implementing responsive design and ensuring cross-browser compatibility.",
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
     {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      title: "Student Apprentice",
+      company_name: "MissedFits",
+      icon: starbucks,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
@@ -149,11 +175,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "Shopify",
+      title: "Forge Garden Intern",
+      company_name: "The Forge Garden, Santa Clara University",
       icon: shopify,
       iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
+      date: "July 2022 - August 2022",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -162,8 +188,8 @@ import {
       ],
     },
     {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Mobile Application Developer",
+      company_name: "SCU Frugal Innovation Hub",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
