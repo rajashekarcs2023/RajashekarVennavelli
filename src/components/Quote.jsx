@@ -11,8 +11,8 @@ const Quote = () => {
       variants={fadeIn("right", "spring",0, 10)}
       className="flex-[0.75] bg-black-100 p-8 rounded-2xl justify-center content-center"
     >
-<h1 className={`${styles.heroSubText} text-center`}>Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning.</h1>
-      <h2 className="font-bold text-green-500 text-center mt-3">- Albert Einstein</h2>
+<h1 className={`${styles.heroSubText} text-center`}>If you only do what you can do, you will never be more than who you are.</h1>
+      <h2 className="font-bold text-green-500 text-center mt-3">- Master Shifu (Kung Fu Panda)</h2>
     </motion.div>
   );
 };

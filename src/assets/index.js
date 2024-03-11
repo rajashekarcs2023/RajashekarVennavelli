@@ -21,10 +21,13 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import aws from "./tech/aws.png";
+import linkedIn from "./linkedInButton.png";
+
+import resume from "./Rajashekar Vennavelli Resume.pdf";
 
 import java from "./tech/java.png";
 import python from "./tech/python.png";
-import jquery from "./tech/jquery.png";
+
 
 
 import meta from "./company/meta.png";
@@ -43,14 +46,12 @@ export {
   creator,
   mobile,
   web,
-  github,
   menu,
   close,
   css,
   java,
   python,
   aws,
-  jquery,
   docker,
   figma,
   git,
@@ -71,4 +72,7 @@ export {
   carrent,
   jobit,
   tripguide,
+  linkedIn,
+  github,
+  resume,
 };

@@ -1,0 +1,8 @@
+Model Information:
+* title:	Space Station 17
+* source:	https://sketchfab.com/3d-models/space-station-17-5416a56a5ed84d32b7f4b2eb32560f6f
+* author:	Kado3D (https://sketchfab.com/kadopl)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

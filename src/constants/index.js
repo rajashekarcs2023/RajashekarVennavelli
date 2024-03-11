@@ -8,7 +8,6 @@ import {
     java,
     python,
     aws,
-    jquery,
     html,
     css,
     reactjs,
@@ -119,10 +118,7 @@ import {
       name: "aws",
       icon: aws,
     },
-   {
-      name: "JQuery",
-      icon: jquery,
-   },
+  
   ];
   
   const experiences = [
