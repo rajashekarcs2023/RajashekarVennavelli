@@ -45,6 +45,7 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import hobbyhub from "./hobbyhub.png";
+import coding from "./Coding.png";
 
 export {
   logo,
@@ -64,6 +65,7 @@ export {
   docker,
   figma,
   hobbyhub,
+  coding,
   git,
   html,
   javascript,

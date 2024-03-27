@@ -26,6 +26,7 @@ import {
     jobit,
     frugal,
     forge,
+    coding,
     tripguide,
     cognicare,
     hobbyhub,
@@ -275,7 +276,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: coding,
       source_code_link: "https://github.com/",
     },
     {
