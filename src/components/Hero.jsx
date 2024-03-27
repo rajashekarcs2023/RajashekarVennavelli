@@ -3,7 +3,7 @@ import React, { useState, useEffect, useRef } from "react";
 import { styles } from "../styles";
 import { EarthCanvas, ComputersCanvas } from "./canvas";
 //import { EarthCanvas } from "./canvas";
-import { github, linkedIn } from "../assets";
+import {devpost, github, linkedIn } from "../assets";
 import { resume } from "../assets";
 import Typed from "typed.js";
 
@@ -14,7 +14,7 @@ const Hero = () => {
   
     useEffect(() => {
       const typed = new Typed(typedRef.current, {
-        strings: ["Hi, I am <span style='color: Orange'>Rajashekar!</span>", "I am an <span style='color: Orange'>AI Enthusiast</span>", "I care for <span style='color: Orange'>mother Earth</span>"],
+        strings: ["Hi, I am <span style='color: Orange'>Rajashekar!</span>", "I am an <span style='color: Orange'>AI Enthusiast</span>","I am a <span style='color: Orange'>Hackathon Buff</span>", "I care for <span style='color: Orange'>mother Earth</span>"],
         typeSpeed: 50,
         backSpeed: 50,
         loop: true,
@@ -114,6 +114,16 @@ return (
             className="inline-block bg-tertiary w-[50px] rounded-xl outline-none text-white font-bold shadow-md shadow-primary z-10"
           >
             <img src={github} alt="Github icon" className="object-cover "></img>
+          </motion.a>
+          <motion.a
+            animate={{ y: [-5, 0] }}
+            transition={{ duration: 1, repeat: Infinity }}
+            href="https://devpost.com/RajashekarVennavelli"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-block bg-tertiary w-[50px] rounded-xl outline-none text-white font-bold shadow-md shadow-primary z-10"
+          >
+            <img src={devpost} alt="Devpost icon" className="object-cover "></img>
           </motion.a>
           <motion.a
             animate={{ y: [-5, 0] }}

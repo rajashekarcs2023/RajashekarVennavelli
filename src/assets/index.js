@@ -6,6 +6,9 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import devpost from "./devpost.png";
+import multimed from "./multimed.png";
+import cognicare from "./cognicare.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -35,14 +38,20 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import Citi from "./company/Citi.png";
+import forge from "./company/forge.png";
+import frugal from "./company/frugal.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import hobbyhub from "./hobbyhub.png";
 
 export {
   logo,
   backend,
+  devpost,
+  cognicare,
+  multimed,
   creator,
   mobile,
   web,
@@ -54,6 +63,7 @@ export {
   aws,
   docker,
   figma,
+  hobbyhub,
   git,
   html,
   javascript,
@@ -69,6 +79,8 @@ export {
   shopify,
   starbucks,
   tesla,
+  forge,
+  frugal,
   carrent,
   jobit,
   tripguide,

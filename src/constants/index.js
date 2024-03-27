@@ -21,9 +21,15 @@ import {
     Citi,
     tesla,
     shopify,
+    starbucks,
     carrent,
     jobit,
+    frugal,
+    forge,
     tripguide,
+    cognicare,
+    hobbyhub,
+    multimed,
     threejs,
   } from "../assets";
   
@@ -44,11 +50,11 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Full Stack Web Developer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Mobile Application Developer",
       icon: mobile,
     },
     {
@@ -56,7 +62,7 @@ import {
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "AI/ML Enthusiast",
       icon: creator,
     },
   ];
@@ -155,10 +161,10 @@ import {
       iconBg: "#E6DEDD",
       date: "Nov 2020 - Jan 2022",
       points: [
-        "Enhanced enterprise-level web applications using Java, Spring, and React.JS frameworks, leading to a increase in application performance.",
-        "Implemented RESTful APIs that drove a 20% surge in user engagement, leveraging Agile methodology to ensure timely delivery",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Led the development of V2 for Power Audit public APIs, assuming ownership of the v2/notes domain for enhanced functionality and scalability and took ownership of multiple aspects of software development lifecycle (SDLC)",
+        "Implemented a comprehensive password security upgrade for approximately 3 million users across Power Audit and Power Customer, enhancing overall system integrity and user data protection",
+        "Implemented a robust anomaly detection feature aimed at empowering CSRs to promptly identify power theft.",
+        "Maintained and improved the existing codebase, including bug fixes, performance enhancements, and code refactoring.",
       ],
     },
     {
@@ -168,29 +174,29 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Feb 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Conducted extensive user research, which involved investigating problems and conducting interviews with users to gain a deep understanding of their pain points",
+        "Performed competitive analysis to gather valuable insights and validate potential product ideas.",
+        "Conducted a comprehensive analysis to determine the market size and growth potential for our products.",
+        "Actively contributed to make a marketing strategy for MissedFits, to make it more visible",
       ],
     },
     {
       title: "Forge Garden Intern",
       company_name: "The Forge Garden, Santa Clara University",
-      icon: shopify,
+      icon: forge,
       iconBg: "#383E56",
       date: "July 2022 - August 2022",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Gained hands-on experience in sustainable agriculture and urban farming practices.",
+        "Contributed to the development of an infrastructure plan for collecting food waste from the SCU campus and its surroundings, fostering composting for sustainability.",
+        "Created a comprehensive management plan to effectively track and manage compost piles.",
+        "Gained insights into food systems, food justice, and the intersections between social justice and sustainability.",
       ],
     },
     {
       title: "Mobile Application Developer",
       company_name: "SCU Frugal Innovation Hub",
-      icon: meta,
+      icon: frugal,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
@@ -231,12 +237,12 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Cogni Care",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "CogniCare is an AI-driven web based app designed to support memory health, offering personalized brain exercises and recollection experiences for individuals facing Alzheimer's or Dementia.",
       tags: [
         {
-          name: "react",
+          name: "Next.js",
           color: "blue-text-gradient",
         },
         {
@@ -248,37 +254,102 @@ import {
           color: "pink-text-gradient",
         },
       ],
+      image: cognicare,
+      source_code_link: "https://github.com/",
+    },
+    {
+      name: "TechChampions Coding Arena",
+      description:
+        "Developed a scalable online coding judge platform with the MERN stack, featuring adding questions, test cases, submission tracking, MongoDB integration for data management",
+      tags: [
+        {
+          name: "React.js",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "mongodb",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "pink-text-gradient",
+        },
+      ],
       image: carrent,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Job IT",
+      name: "Development of Microservices",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Developed three basic microservices using Spring Boot, utilized API server as an orchestrator, and integrated them to create a simple application with a front-end using Angular.js.",
+      tags: [
+        {
+          name: "Spring Boot",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Docker",
+          color: "green-text-gradient",
+        },
+        {
+          name: "RabbitMQ",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/",
+    },
+
+    {
+      name: "Quiz Application System",
+      description:
+        "Developed a desktop based quiz appl;ication where the admin can add text based and image based questions, edit questions in the question bank, calculate scores and compare the results.",
+      tags: [
+        {
+          name: "Java FX",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "OOPs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Core Java",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: carrent,
+      source_code_link: "https://github.com/",
+    },
+    
+    {
+      name: "Multimed Vision Plus",
+      description:
+        "A health management platform connected with hardware that empowers users to track medications and nutrients, receive personalized advice, and get proactive alerts, ensuring comprehensive wellness across devices.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "FastAPI",
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "LLMs",
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: multimed,
       source_code_link: "https://github.com/",
     },
     {
-      name: "Trip Guide",
+      name: "HobbyHub",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A web application enabling users to post, share, and engage with content about their hobbies, featuring image sharing, advanced search, and interactive community functionalities.",
       tags: [
         {
-          name: "nextjs",
+          name: "react.js",
           color: "blue-text-gradient",
         },
         {
@@ -290,7 +361,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: hobbyhub,
       source_code_link: "https://github.com/",
     },
   ];
