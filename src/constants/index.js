@@ -31,6 +31,7 @@ import {
     cognicare,
     hobbyhub,
     multimed,
+    quiz,
     threejs,
   } from "../assets";
   
@@ -201,10 +202,8 @@ import {
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Created an educational game to inform children about waste management and the impact of littering on oceans.",
+        "Worked with a team to build a cross-platform game for Web, Android, and iOS using Flutter and Flame Engine",
       ],
     },
   ];
@@ -256,7 +255,7 @@ import {
         },
       ],
       image: cognicare,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rajashekarcs2023/Cogni-Care",
     },
     {
       name: "TechChampions Coding Arena",
@@ -277,7 +276,7 @@ import {
         },
       ],
       image: coding,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rajashekarcs2023/TechChampions-Coding-Arena",
     },
     {
       name: "Development of Microservices",
@@ -298,7 +297,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rajashekarcs2023/Microservices",
     },
 
     {
@@ -319,8 +318,8 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: quiz,
+      source_code_link: "https://github.com/rajashekarcs2023/Quiz-Application",
     },
     
     {
@@ -342,7 +341,7 @@ import {
         },
       ],
       image: multimed,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rajashekarcs2023/CalHacks23",
     },
     {
       name: "HobbyHub",
@@ -363,7 +362,7 @@ import {
         },
       ],
       image: hobbyhub,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/rajashekarcs2023/Hobby-Hub",
     },
   ];
   

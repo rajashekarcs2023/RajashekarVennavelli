@@ -46,6 +46,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import hobbyhub from "./hobbyhub.png";
 import coding from "./Coding.png";
+import quiz from "./quiz.png";
 
 export {
   logo,
@@ -83,6 +84,7 @@ export {
   tesla,
   forge,
   frugal,
+  quiz,
   carrent,
   jobit,
   tripguide,
