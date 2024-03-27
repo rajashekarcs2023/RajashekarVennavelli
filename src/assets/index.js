@@ -26,7 +26,7 @@ import threejs from "./tech/threejs.svg";
 import aws from "./tech/aws.png";
 import linkedIn from "./linkedInButton.png";
 
-import resume from "./Rajashekar Vennavelli Resume.pdf";
+import resume from "./RajashekarVennavelli Resume.pdf";
 
 import java from "./tech/java.png";
 import python from "./tech/python.png";
