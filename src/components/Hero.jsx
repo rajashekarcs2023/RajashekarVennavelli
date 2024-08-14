@@ -49,13 +49,13 @@ return (
           <span ref={typedRef}></span>
         </h1>
         <p className={`${styles.heroSubText} mt-2 text-white-100`}>
-        A proficient Software Engineer with an  
+        A passionate Software Engineer with a  
         <a
             target="_blank"
             className="text-[#800080] font-bold"
           >
             {" "}
-            advanced expertise in Computer Science{" "}
+            deep love for Computer Science{" "}
           </a>, adept at crafting enterprise-level applications and passionate about leveraging{" "}
           <motion.span
             animate={{ scale: [1, 1.1, 1] }}
