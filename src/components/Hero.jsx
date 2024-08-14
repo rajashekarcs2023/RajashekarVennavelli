@@ -55,7 +55,7 @@ return (
             className="text-[#800080] font-bold"
           >
             {" "}
-            MS in Computer Science{" "}
+            advanced expertise in Computer Science{" "}
           </a>, adept at crafting enterprise-level applications and passionate about leveraging{" "}
           <motion.span
             animate={{ scale: [1, 1.1, 1] }}
