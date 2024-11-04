@@ -40,6 +40,7 @@ import tesla from "./company/tesla.png";
 import Citi from "./company/Citi.png";
 import forge from "./company/forge.png";
 import frugal from "./company/frugal.png";
+import meta from "./company/headstarterai.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
