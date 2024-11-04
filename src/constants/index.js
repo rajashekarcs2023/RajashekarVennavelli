@@ -18,6 +18,8 @@ import {
     figma,
     docker,
     meta,
+    headstarter,
+    atlasnova,
     Citi,
     tesla,
     shopify,

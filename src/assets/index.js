@@ -40,7 +40,8 @@ import tesla from "./company/tesla.png";
 import Citi from "./company/Citi.png";
 import forge from "./company/forge.png";
 import frugal from "./company/frugal.png";
-import meta from "./company/headstarterai.png";
+import headstarter from "./company/headstarterai.png";
+import atlasnova from "./company/atlasnova.jpeg"
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -79,6 +80,8 @@ export {
   typescript,
   threejs,
   meta,
+  headstarter,
+  atlasnova,
   Citi,
   shopify,
   starbucks,
