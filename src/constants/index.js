@@ -211,13 +211,24 @@ import {
       company_name: "Headstarter AI",
       icon: frugal,
       iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      date: "April 2024 - July 2024",
       points: [
-        "Created an educational game to inform children about waste management and the impact of littering on oceans.",
-        "Worked with a team to build a cross-platform game for Web, Android, and iOS using Flutter and Flame Engine",
+        "Built a learning management system (LMS) with React and Node.js. Implemented user authentication, course creation, and progress tracking. Leveraged PostgreSQL for data management and a microservice architecture for scalability.",
+        "Developed a high-throughput data processing pipeline for real-time analytics using Node.js and PostgreSQL, optimizing database queries and facilitating seamless data flow across multiple microservices.",
       ],
     },
-    
+    {
+      title: "Software Engineer Intern",
+      company_name: "AtlasNova AI",
+      icon: frugal,
+      iconBg: "#E6DEDD",
+      date: "August 2024 - Present",
+      points: [
+        "Architected multiple workflows for processing multi-modal content, implemented a serverless API ecosystem using AWS Lambda and API Gateway, achieving a 40% improvement in data processing efficiency.",
+        " Engineered a sophisticated AI-driven document generation system utilizing AWS Lambda, integrating multiple LLM models (GPT-4, Claude, Gemini) with custom RAG pipelines.",
+      ],
+    },
+
   ];
   
   const testimonials = [
