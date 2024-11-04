@@ -148,7 +148,7 @@ import {
       company_name: "Citi Bank",
       icon: Citi,
       iconBg: "#383E56",
-      date: "July 2018 - February 2019",
+      date: "2018 - 2019",
       points: [
         "Developed modules for reading, writing and processing data from the database. Developed and maintained Spring Batch applications to process data input files.",
         "Implemented a suite of compliance metrics using SQL queries and Spring Batch to measure and track compliance across the organization.",
@@ -158,10 +158,10 @@ import {
     },
     {
       title: "Software Engineer",
-      company_name: "Global Energy Consulting Engineers",
+      company_name: "Fusion5",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "Nov 2020 - Jan 2022",
+      date: "2020 - 2021",
       points: [
         "Led the development of V2 for Power Audit public APIs, assuming ownership of the v2/notes domain for enhanced functionality and scalability and took ownership of multiple aspects of software development lifecycle (SDLC)",
         "Implemented a comprehensive password security upgrade for approximately 3 million users across Power Audit and Power Customer, enhancing overall system integrity and user data protection",
@@ -196,8 +196,19 @@ import {
       ],
     },
     {
-      title: "Mobile Application Developer",
+      title: "Full Stack Developer",
       company_name: "SCU Frugal Innovation Hub",
+      icon: frugal,
+      iconBg: "#E6DEDD",
+      date: "September 2022 - March 2023",
+      points: [
+        "Created an educational game to inform children about waste management and the impact of littering on oceans.",
+        "Worked with a team to build a cross-platform game for Web, Android, and iOS using Flutter and Flame Engine",
+      ],
+    },
+    {
+      title: "Software Engineer Intern",
+      company_name: "Headstarter AI",
       icon: frugal,
       iconBg: "#E6DEDD",
       date: "Jan 2023 - Present",
@@ -206,6 +217,7 @@ import {
         "Worked with a team to build a cross-platform game for Web, Android, and iOS using Flutter and Flame Engine",
       ],
     },
+    
   ];
   
   const testimonials = [
