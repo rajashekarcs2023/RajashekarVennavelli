@@ -211,7 +211,7 @@ import {
     {
       title: "Software Engineer Intern",
       company_name: "Headstarter AI",
-      icon: frugal,
+      icon: headstarter,
       iconBg: "#E6DEDD",
       date: "April 2024 - July 2024",
       points: [
@@ -222,7 +222,7 @@ import {
     {
       title: "Software Engineer Intern",
       company_name: "AtlasNova AI",
-      icon: frugal,
+      icon: atlasnova,
       iconBg: "#E6DEDD",
       date: "August 2024 - Present",
       points: [
