@@ -146,7 +146,7 @@ import {
       ],
     },
     {
-      title: "Application Developer",
+      title: "Software Engineer",
       company_name: "Citi Bank",
       icon: Citi,
       iconBg: "#383E56",
@@ -159,11 +159,11 @@ import {
       ],
     },
     {
-      title: "Software Engineer",
+      title: "Senior Software Engineer",
       company_name: "World Bank, GECE",
       icon: meta,
       iconBg: "#E6DEDD",
-      date: "2020 - 2021",
+      date: "2020 - 2022",
       points: [
         "Led the development of V2 for Power Audit public APIs, assuming ownership of the v2/notes domain for enhanced functionality and scalability and took ownership of multiple aspects of software development lifecycle (SDLC)",
         "Implemented a comprehensive password security upgrade for approximately 3 million users across Power Audit and Power Customer, enhancing overall system integrity and user data protection",
@@ -220,7 +220,7 @@ import {
       ],
     },
     {
-      title: "Software Engineer Intern",
+      title: "Software Engineer",
       company_name: "AtlasNova AI",
       icon: atlasnova,
       iconBg: "#E6DEDD",
