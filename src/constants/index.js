@@ -160,7 +160,7 @@ import {
     },
     {
       title: "Software Engineer",
-      company_name: "Fusion5",
+      company_name: "World Bank, GECE",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "2020 - 2021",
