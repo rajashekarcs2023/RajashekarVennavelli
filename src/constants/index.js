@@ -209,7 +209,7 @@ import {
       ],
     },
     {
-      title: "Software Engineer Intern",
+      title: "Software Engineering Fellow",
       company_name: "Headstarter AI",
       icon: headstarter,
       iconBg: "#E6DEDD",
@@ -220,11 +220,11 @@ import {
       ],
     },
     {
-      title: "Software Engineer",
+      title: "Full Stack Engineer",
       company_name: "AtlasNova AI",
       icon: atlasnova,
       iconBg: "#E6DEDD",
-      date: "August 2024 - Present",
+      date: "January 2024 - Present",
       points: [
         "Architected multiple workflows for processing multi-modal content, implemented a serverless API ecosystem using AWS Lambda and API Gateway, achieving a 40% improvement in data processing efficiency.",
         " Engineered a sophisticated AI-driven document generation system utilizing AWS Lambda, integrating multiple LLM models (GPT-4, Claude, Gemini) with custom RAG pipelines.",
