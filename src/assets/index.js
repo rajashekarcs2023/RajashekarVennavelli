@@ -38,6 +38,7 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import Citi from "./company/Citi.png";
+import fetchai from "./company/fetchai.png";
 import forge from "./company/forge.png";
 import frugal from "./company/frugal.png";
 import headstarter from "./company/headstarterai.png";
@@ -83,6 +84,7 @@ export {
   headstarter,
   atlasnova,
   Citi,
+  fetchai,
   shopify,
   starbucks,
   tesla,

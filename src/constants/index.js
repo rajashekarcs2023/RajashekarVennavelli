@@ -20,6 +20,7 @@ import {
     meta,
     headstarter,
     atlasnova,
+    fetchai,
     Citi,
     tesla,
     shopify,
@@ -224,12 +225,23 @@ import {
       company_name: "AtlasNova AI",
       icon: atlasnova,
       iconBg: "#E6DEDD",
-      date: "January 2024 - Present",
+      date: "January 2024 - October",
       points: [
         "Architected multiple workflows for processing multi-modal content, implemented a serverless API ecosystem using AWS Lambda and API Gateway, achieving a 40% improvement in data processing efficiency.",
         " Engineered a sophisticated AI-driven document generation system utilizing AWS Lambda, integrating multiple LLM models (GPT-4, Claude, Gemini) with custom RAG pipelines.",
       ],
     },
+    {
+      title: "Software Engineer",
+      company_name: "Fetch AI",
+      icon: fetchai,
+      iconBg: "#E6DEDD",
+      date: "November 2024 - October",
+      points: [
+        "Architected multiple workflows for processing multi-modal content, implemented a serverless API ecosystem using AWS Lambda and API Gateway, achieving a 40% improvement in data processing efficiency.",
+        " Engineered a sophisticated AI-driven document generation system utilizing AWS Lambda, integrating multiple LLM models (GPT-4, Claude, Gemini) with custom RAG pipelines.",
+      ],
+    }
 
   ];
   
